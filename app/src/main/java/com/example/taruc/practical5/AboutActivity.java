@@ -13,6 +13,6 @@ public class AboutActivity extends AppCompatActivity {
 
         // Linking UI to program
         WebView webViewAbout = (WebView) findViewById(R.id.webViewAbout);
-        webViewAbout.loadUrl("https://www.google.com");
+        webViewAbout.loadUrl("https://www.google.com ");
     }
 }
